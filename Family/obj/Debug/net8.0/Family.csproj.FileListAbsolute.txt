@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\Family.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\Family.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\Family.AssemblyInfo.cs
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\Family.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Family\Family\bin\Debug\net8.0\Family.exe
+C:\Users\User\source\repos\Family\Family\bin\Debug\net8.0\Family.deps.json
+C:\Users\User\source\repos\Family\Family\bin\Debug\net8.0\Family.runtimeconfig.json
+C:\Users\User\source\repos\Family\Family\bin\Debug\net8.0\Family.dll
+C:\Users\User\source\repos\Family\Family\bin\Debug\net8.0\Family.pdb
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\Family.dll
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\refint\Family.dll
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\Family.pdb
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\Family.genruntimeconfig.cache
+C:\Users\User\source\repos\Family\Family\obj\Debug\net8.0\ref\Family.dll
