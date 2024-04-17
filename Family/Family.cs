@@ -42,5 +42,50 @@ namespace Family
                 item.Intruduce();
             }
         }
+
+        public void PrintYoungest()
+        {
+            Person younger = new Person();
+            int minage = int.MaxValue;
+
+            foreach (Person item in this.Members)
+            {
+                if (item.Age < minage)
+                {
+                    minage = item.Age;
+                    younger = item;
+                }
+
+            }
+            Console.WriteLine("Nai mladiq chlen na semejstvoto e");
+            younger.Intruduce();
+        }
+        public void PrintOlder()
+        {
+            Person younger = new Person();
+            int minage = int.MinValue;
+
+            foreach (Person item in this.Members)
+            {
+                if (item.Age > minage)
+                {
+                    minage = item.Age;
+                    younger = item;
+                }
+
+            }
+            Console.WriteLine("Nai stariq chlen na semejstvoto e");
+            younger.Intruduce();
+
+        }
+        public int SumOfTheFamilies() 
+        {
+            int sum = 0;
+            foreach (Person item in this.Members) 
+            { 
+                sum = sum + item.Age;
+            }
+            return sum;
+        }
     }
 }

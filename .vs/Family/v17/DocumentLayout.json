@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Stanislav9a\\Family1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{229D5E0A-055C-4858-A5D0-7BFF1732EEF8}|Family\\Family.csproj|c:\\stanislav9a\\family1\\family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229D5E0A-055C-4858-A5D0-7BFF1732EEF8}|Family\\Family.csproj|solutionrelative:family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229D5E0A-055C-4858-A5D0-7BFF1732EEF8}|Family\\Family.csproj|C:\\Stanislav9a\\Family1\\family\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229D5E0A-055C-4858-A5D0-7BFF1732EEF8}|Family\\Family.csproj|solutionrelative:family\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229D5E0A-055C-4858-A5D0-7BFF1732EEF8}|Family\\Family.csproj|C:\\Stanislav9a\\Family1\\family\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229D5E0A-055C-4858-A5D0-7BFF1732EEF8}|Family\\Family.csproj|solutionrelative:family\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Stanislav9a\\Family1\\Family\\Person.cs",
+              "RelativeDocumentMoniker": "Family\\Person.cs",
+              "ToolTip": "C:\\Stanislav9a\\Family1\\Family\\Person.cs",
+              "RelativeToolTip": "Family\\Person.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:26:34.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Family.cs",
+              "DocumentMoniker": "C:\\Stanislav9a\\Family1\\Family\\Family.cs",
+              "RelativeDocumentMoniker": "Family\\Family.cs",
+              "ToolTip": "C:\\Stanislav9a\\Family1\\Family\\Family.cs",
+              "RelativeToolTip": "Family\\Family.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:26:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Stanislav9a\\Family1\\Family\\Program.cs",
+              "RelativeDocumentMoniker": "Family\\Program.cs",
+              "ToolTip": "C:\\Stanislav9a\\Family1\\Family\\Program.cs",
+              "RelativeToolTip": "Family\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:26:35.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
